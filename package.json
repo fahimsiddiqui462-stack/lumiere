@@ -1,0 +1,9 @@
+{
+  "name": "lumiere-salon-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lumière Beauty Studio portfolio site with Netlify Functions booking backend",
+  "dependencies": {
+    "@netlify/blobs": "^9.0.0"
+  }
+}
